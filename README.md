@@ -1,5 +1,7 @@
 # fortran_tools: Python tools for updating old Fortran code
 
+Forked and converted to Python 3 by Daniel Talsky
+
 ## License
 
 * fortran_tools  Copyright (C) 2012 James Goppert, Lenna Peterson
